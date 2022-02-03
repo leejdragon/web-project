@@ -304,7 +304,22 @@ img {
 .skills__icon {
   font-size: 2rem;
   margin-right: var(--mb-2);
-  color: var(--first-color);
+}
+
+.bxl-html5 {
+  color: orangered;
+}
+
+.bxl-css3 {
+  color: blue;
+}
+
+.bxl-javascript {
+  color: rgb(236, 221, 13);
+}
+
+.bxl-vuejs {
+  color: #42b983;
 }
 
 .skills__names {
